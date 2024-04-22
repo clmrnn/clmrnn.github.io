@@ -20,12 +20,12 @@ author: Arianna
 ###############################################
 
 navbar-links:
-  About: "about.md"
+  #About: "about.md"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
- #CV: "cv"
+ CV: "cv"
  #Publications: "publ"
 
 ################
