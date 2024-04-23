@@ -4,7 +4,7 @@ title: Curriculum Vitae
 subtitle: 
 ---
 
-You can download a PDF version of the CV [here](https://clmrnn.github.io/clmrnn/CVFeb2024_Redatto.pdf).
+You can download a PDF version of the CV [here][CV]
 
 ## Education
 * 02/2023 – ongoing, PhD in Linguistics And Cognitive Sciences – Joint Programme “International Doctorate For Experimental Approaches To Language And Brain” [(IDEALAB)](https://phd-idealab.com/) at Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Sydney, Australia)
@@ -43,3 +43,5 @@ Matlab –  R
 ## Language skills
 My native language is Italian. I am fluent in English, Spanish, and Italian Sign Language (LIS). I am a good user of Portuguese and familiar with French, Catalan, and Swedish.  
  * 12/05/2022 IELTS Certificate, overall score 8
+
+[CV]: https://clmrnn.github.io/clmrnn/CVColombani.pdf
