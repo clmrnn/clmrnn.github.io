@@ -9,7 +9,7 @@ Rebesco, R., Colombani, A., Handjaras, G., Bottari, D. & Orzan, E. (2024). Early
 
 Saksida, A., Rebesco, R., Colombani, A., Pintonello, S., Tonon, E., Santoro, AM. and Orzan, E. (2024) The timeline of non-vocal and vocal communicative skills in infants with hearing loss. Front. Pediatr.11:1209754. [https://doi:10.3389/fped.2023.1209754](doi:10.3389/fped.2023.1209754)
 
-Colombani, A., Saksida, A., Pavani, F., & Orzan, E. (2022). Symbolic and deictic gestures as a tool to promote parent-child communication in the context of hearing loss: a systematic review. International Journal of Pediatric Otorhinolaryngology,165 [https://doi.org/10.1016/j.ijporl.2022.111421[(https://doi.org/10.1016/j.ijporl.2022.111421)
+Colombani, A., Saksida, A., Pavani, F., & Orzan, E. (2022). Symbolic and deictic gestures as a tool to promote parent-child communication in the context of hearing loss: a systematic review. International Journal of Pediatric Otorhinolaryngology,165 [https://doi.org/10.1016/j.ijporl.2022.111421](https://doi.org/10.1016/j.ijporl.2022.111421)
 
 Colombani, A., Saksida, A., Pintonello, S., De Caro, F., & Orzan, E. (2022). Assessment of Communication Abilities in Four Children with Early Bilateral CIs in Clinical and Home Environments with LENA System: A Case Report. Children (Basel, Switzerland), 9(5), 659.[https://doi.org/10.3390/children9050659](https://doi.org/10.3390/children9050659)
 
