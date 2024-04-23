@@ -21,6 +21,7 @@ author: Arianna Colombani
 ###############################################
 
 navbar-links:
+ Home: "index"
  CV: "cv"
  Publications: "publ"
 
