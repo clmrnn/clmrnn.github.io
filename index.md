@@ -13,6 +13,6 @@ I came to academia after several years working as a freelance sign language inte
 I am now based in Berlin. You may often find me skating in Tempelhofer Feld, trying to make sense of things by listening to science and history podcasts.
 
 ## Contact
-Potsdam: colombani [at] uni-potsdam [dot] de
-Macquarie: arianna.colombani [at] mq [dot] edu [dot] au
+Potsdam: colombani [at] uni-potsdam [dot] de  
+Macquarie: arianna.colombani [at] mq [dot] edu [dot] au  
 Personal email: colombaniarianna [at] gmail [dot] com
