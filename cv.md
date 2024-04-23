@@ -7,17 +7,10 @@ subtitle:
 You can download a PDF version of the CV [here]().
 
 ## Education
-* 02/2023 – ongoing  
-  JOINT PHD PROGRAM _“INTERNATIONAL DOCTORATE FOR EXPERIMENTAL APPROACHES TO LANGUAGE AND BRAIN”_ [(IDEALAB)](https://phd-idealab.com/) IN LINGUISTICS AND COGNITIVE SCIENCES – University of Potsdam (Germany) and Macquarie University (Sydney, Australia)
-     
-* 10/2014 – 01/2016  
-  SCHOOL FOR SIGN LANGUAGE INTERPRETERS – National Association of the Deaf (Rome, Italy)
-   
-* 10/2010 – 07/2014  
-  MASTER'S DEGREE IN LINGUISTICS – University of Florence (Italy)
-  
-* 10/2006 – 07/2010  
-  BACHELOR'S DEGREE IN FOREIGN LANGUAGES & LITERATURE – University of Milan (Italy)
+* 02/2023 – ongoing, JOINT PHD PROGRAM “INTERNATIONAL DOCTORATE FOR EXPERIMENTAL APPROACHES TO LANGUAGE AND BRAIN” [(IDEALAB)](https://phd-idealab.com/) IN LINGUISTICS AND COGNITIVE SCIENCES –  Universities of Potsdam (Germany), Newcastle (UK), Groningen (Netherlands), and Macquarie University (Australia)     
+* 10/2014 – 01/2016, SCHOOL FOR SIGN LANGUAGE INTERPRETERS – National Association of the Deaf (Rome, Italy)
+* 10/2010 – 07/2014, MASTER'S DEGREE IN LINGUISTICS – University of Florence (Italy)  
+* 10/2006 – 07/2010, BACHELOR'S DEGREE IN FOREIGN LANGUAGES & LITERATURE (Spanish and Swedish) – University of Milan (Italy)
 
 ## Academic Employment
 * Academic Tutor, _Macquarie University_
@@ -41,8 +34,7 @@ You can download a PDF version of the CV [here]().
   * I conducted training courses on Baby Signs® certification for kindergartens.
  
 ## Networks
-26/10/2018 – current
-I am a Member of [ANIOS](https://www.anios.it/) “National Association of Interpreters of Italian Sign Language”, Membership No. 107
+26/10/2018 I am a Member of [ANIOS](https://www.anios.it/) _“National Association of Interpreters of Italian Sign Language”_, Membership No. 107
 
 ## Experimental techniques and programming languages  
 Behavioural – EEG  
