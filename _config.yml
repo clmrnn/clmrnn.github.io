@@ -10,11 +10,11 @@
 ############################
 
 # Name of website
-title: "@Arianna"
+title: "@AriannaColombani"
 description: Homepage
 
 # Your name to show in the footer
-author: Arianna
+author: Arianna Colombani
 
 
 ###############################################
@@ -22,7 +22,7 @@ author: Arianna
 ###############################################
 
 navbar-links:
-  #About: "about.md"
+ # About: "about.md"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
