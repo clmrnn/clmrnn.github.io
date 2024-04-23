@@ -1,16 +1,17 @@
+---
 layout: page
 title: Research 
 subtitle: 
 ---
 
 ## Publications
-* Rebesco, R., Colombani, A., Handjaras, G., Bottari, D. & Orzan, E. (2024). Early assessment of communicative competence in children with hearing loss using the Child-Caregiver Communication Assessment through Rebesco's Evaluation (CC-CARE) method. International Journal of Pediatric Otorhinolaryngology. 111927. [https://10.1016/j.ijporl.2024.111927](https://doi.org/10.1016/j.ijporl.2024.111927)
+Rebesco, R., Colombani, A., Handjaras, G., Bottari, D. & Orzan, E. (2024). Early assessment of communicative competence in children with hearing loss using the Child-Caregiver Communication Assessment through Rebesco's Evaluation (CC-CARE) method. International Journal of Pediatric Otorhinolaryngology. 111927. [https://10.1016/j.ijporl.2024.111927](https://doi.org/10.1016/j.ijporl.2024.111927)
 
-* Saksida, A., Rebesco, R., Colombani, A., Pintonello, S., Tonon, E., Santoro, AM. and Orzan, E. (2024) The timeline of non-vocal and vocal communicative skills in infants with hearing loss. Front. Pediatr. 11:1209754.[https://doi:10.3389/fped.2023.1209754](doi:10.3389/fped.2023.1209754)
+Saksida, A., Rebesco, R., Colombani, A., Pintonello, S., Tonon, E., Santoro, AM. and Orzan, E. (2024) The timeline of non-vocal and vocal communicative skills in infants with hearing loss. Front. Pediatr.11:1209754. [https://doi:10.3389/fped.2023.1209754](doi:10.3389/fped.2023.1209754)
 
-* Colombani, A., Saksida, A., Pavani, F., & Orzan, E. (2022). Symbolic and deictic gestures as a tool to promote parent-child communication in the context of hearing loss: a systematic review. International Journal of Pediatric Otorhinolaryngology,165.[https://doi.org/10.1016/j.ijporl.2022.111421[(https://doi.org/10.1016/j.ijporl.2022.111421)
+Colombani, A., Saksida, A., Pavani, F., & Orzan, E. (2022). Symbolic and deictic gestures as a tool to promote parent-child communication in the context of hearing loss: a systematic review. International Journal of Pediatric Otorhinolaryngology,165 [https://doi.org/10.1016/j.ijporl.2022.111421[(https://doi.org/10.1016/j.ijporl.2022.111421)
 
-* Colombani, A., Saksida, A., Pintonello, S., De Caro, F., & Orzan, E. (2022). Assessment of Communication Abilities in Four Children with Early Bilateral CIs in Clinical and Home Environments with LENA System: A Case Report. Children (Basel, Switzerland), 9(5), 659.[https://doi.org/10.3390/children9050659](https://doi.org/10.3390/children9050659)
+Colombani, A., Saksida, A., Pintonello, S., De Caro, F., & Orzan, E. (2022). Assessment of Communication Abilities in Four Children with Early Bilateral CIs in Clinical and Home Environments with LENA System: A Case Report. Children (Basel, Switzerland), 9(5), 659.[https://doi.org/10.3390/children9050659](https://doi.org/10.3390/children9050659)
 
 ## Conferences
-Scuderi, M., Colombani, A. (2018) The Baby Signs program meets the deaf community: an experienal acvity to promote the inclusion of Priscilla in the "Bertacchi" municipal nursery school in Padua. _Poster_ presented at 4° Convegno Nazionale LIS, 9-11 Nov. 2018, Rome (Italy)
+Scuderi, M., Colombani, A. (2018) The Baby Signs program meets the deaf community: an experiential activity to promote the inclusion of Priscilla in the "Bertacchi" municipal nursery school in Padua. _Poster_ presented at 4° Convegno Nazionale LIS, 9-11 Nov. 2018, Rome (Italy)
