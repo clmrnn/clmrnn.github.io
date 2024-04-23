@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arianna Colombani
+title: ARIANNA COLOMBANI
 subtitle: Psycholinguist and Italian Sign Language interpreter
 ---
 
