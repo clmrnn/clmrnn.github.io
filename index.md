@@ -10,7 +10,7 @@ I am currently a PhD student in Cognitive Sciences and Linguistics at the Univer
 
 I came to academia after several years working as a freelance sign language interpreter and teacher for the deaf. As an interpreter, I primarily worked in education (universities) and art settings (museums, travels). As a teacher, I mostly worked in primary schools with deaf children with cochlear implants, using the bi-modal method to support their spoken language acquisition and foster communication skills. 
 
-I am now based in Berlin, where you can often find me rollerblading at Tempelhofer feld. 
+I am now based in Berlin. You can often find me skating at Tempelhofer Feld while trying to make sense of things by listening to science and history podcasts.
 
 ## Contact
 You can contact me at: colombani [at] uni-potsdam [dot] de
