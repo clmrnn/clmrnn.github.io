@@ -279,6 +279,11 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
+      path: ""
+    values:
+      layout: "home"
+  -
+    scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
