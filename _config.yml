@@ -11,9 +11,11 @@
 
 # Name of website
 title: "@Arianna"
+description: Homepage
 
 # Your name to show in the footer
 author: Arianna
+
 
 ###############################################
 # --- List of links in the navigation bar --- #
