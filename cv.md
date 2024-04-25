@@ -29,6 +29,10 @@ You can download a PDF version of the CV [here][CV]
 * 10/2014 – 07/2022 – **Teacher for the deaf** in elementary and middle schools
   
 * 12/2017 – 01/2023, **Workshop trainer**, [Baby Signs Italia](https://www.babysignsitalia.com/), Padova (Italy)
+
+## Training
+* 2024 [Data visualization in R](https://www.stat.fu-berlin.de/schulungen_neu/interne-start/durchgefuehrt/index.html) – Fu:stats, Freie Universität Berlin
+* 2023 [Beginning to teach](https://ishare.mq.edu.au/prod/file/cef2ec2d-75b6-4eb5-8590-c86d58ed4be0/1/BTT%20July%202023%20Program%20Guide.pdf) – Macquarie University
  
 ## Networks
 26/10/2018 I am a Member of [ANIOS](https://www.anios.it/) “National Association of Interpreters of Italian Sign Language”, Membership No. 107
