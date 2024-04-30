@@ -31,7 +31,9 @@ You can download a PDF version of the CV [here][CV]
 * 12/2017 – 01/2023, **Workshop trainer**, [Baby Signs Italia](https://www.babysignsitalia.com/), Padova (Italy)
 
 ## Training
+* 2024 [Learning Pupillometry: From Theory to Analyses](https://linguistlist.org/issues/35/279/) – University of Konstanz
 * 2024 [Data visualization in R](https://www.stat.fu-berlin.de/schulungen_neu/interne-start/durchgefuehrt/index.html) – Fu:stats, Freie Universität Berlin
+* 2024 [Power Analysis Workshop](https://manybabies.org/events/) – ManyBabies
 * 2023 [Beginning to teach](https://ishare.mq.edu.au/prod/file/cef2ec2d-75b6-4eb5-8590-c86d58ed4be0/1/BTT%20July%202023%20Program%20Guide.pdf) – Macquarie University
  
 ## Networks
