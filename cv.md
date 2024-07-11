@@ -44,11 +44,11 @@ You can download a PDF version of the CV [here][CV]
 26/10/2018 I am a Member of [ANIOS](https://www.anios.it/) “National Association of Interpreters of Italian Sign Language”, Membership No. 107
 
 ## Experimental techniques and programming languages  
-Behavioural – EEG  
-Matlab –  R  
+Behavioural – EEG – eye-tracking
+Matlab – R – Presentation
 
 ## Language skills
-My native language is Italian. I am fluent in English, Spanish, and Italian Sign Language (LIS). I am a good user of Portuguese and familiar with French, Catalan, and Swedish.  
+My native language is Italian. I am fluent in English, Spanish, and Italian Sign Language (LIS). I am familiar with Portuguese, French, Catalan, and Swedish.  
 * 12/05/2022 IELTS Certificate, overall score 8
 
 [CV]: https://clmrnn.github.io/clmrnn/CVColombani.pdf
