@@ -16,7 +16,7 @@ You can download a PDF version of the CV [here][CV]
 * 2023, **Academic Tutor**, _Macquarie University_
   * Session 2: [PSYU1102 Introduction to Psychology II](https://unitguides.mq.edu.au/unit_offerings/141542/unit_guide)
 
-* 08/2022 – 01/2023, **Research Scholarship**, _Institute for Maternal and Child Health IRCSS "Burlo Garofolo"_, Trieste (Italy)
+* 08/2021 – 01/2023, **Research Scholarship**, _Institute for Maternal and Child Health IRCSS "Burlo Garofolo"_, Trieste (Italy)
   * Project RC 42/2022 Introducing a novel approach to early interventions and diagnostic measures in children with hearing loss.
   * Project RC 17/2017 Clinical application of new tools in pediatric audiology to improve the prevention, evaluation, and rehabilitation of auditory-linguistic disorders.
 
