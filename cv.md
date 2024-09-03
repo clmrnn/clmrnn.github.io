@@ -20,6 +20,11 @@ You can download a PDF version of the CV [here][CV]
   * Project RC 42/2022 Introducing a novel approach to early interventions and diagnostic measures in children with hearing loss.
   * Project RC 17/2017 Clinical application of new tools in pediatric audiology to improve the prevention, evaluation, and rehabilitation of auditory-linguistic disorders.
 
+## Collaborations
+* 2023–ongoing, _Favorire l’interazione comunicativa nei primi anni di vita: un progetto di neuroscienze cognitive e ricerca-azione educativa sulle relazioni fra gesto simbolico e parola_, Fondazione CARITRO and Università di Trento (Italy)
+* 2023–ongoing, _An early parent-centered multimodal intervention and diagnostic measures in children with hearing impairment: Feasibility study_, Institute for Maternal and Child Health IRCSS "Burlo Garofolo", Trieste (Italy)
+
+
 ## Employment
 * 01/2016 – 01/2023, **Freelance sign language interpreter**
   * 01/2016 – 01/2023 – Interpreter and Tutor for deaf students at the _University of Florence_ and _University of Pisa_
@@ -31,6 +36,7 @@ You can download a PDF version of the CV [here][CV]
 * 12/2017 – 01/2023, **Workshop trainer**, [Baby Signs Italia](https://www.babysignsitalia.com/), Padova (Italy)
 
 ## Training
+* 2024 [Eighth Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2024/), Foundations of Frequentist Statistics, 9-13 September 2024 – University of Potsdam
 * 2024 [Learning Pupillometry: From Theory to Analyses](https://linguistlist.org/issues/35/279/) – University of Konstanz
 * 2024 [Data visualization in R](https://www.stat.fu-berlin.de/schulungen_neu/interne-start/durchgefuehrt/index.html) – Fu:stats, Freie Universität Berlin
 * 2024 [Power Analysis Workshop](https://manybabies.org/events/) – ManyBabies
@@ -44,8 +50,8 @@ You can download a PDF version of the CV [here][CV]
 26/10/2018 I am a Member of [ANIOS](https://www.anios.it/) “National Association of Interpreters of Italian Sign Language”, Membership No. 107
 
 ## Experimental techniques and programming languages  
-Behavioural – EEG – eye-tracking
-Matlab – R – Presentation
+* EEG – eye-tracking – pupillometry
+* R – Matlab – Presentation
 
 ## Language skills
 My native language is Italian. I am fluent in English, Spanish, and Italian Sign Language (LIS). I am familiar with Portuguese, French, Catalan, and Swedish.  
