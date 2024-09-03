@@ -5,6 +5,8 @@ subtitle:
 ---
 
 ## Publications
+**Colombani, A.**, Peter V., Quian, Y.M., Saksida A., Boll-Avetisyan N., Tuomainen O., Sharma, M. (_in review_), Cross-situational learning of word-pseudosign pairs in children and adults: a behavioural and event-related potential study. Language, Cognition and Neuroscience
+
 Rebesco, R., **Colombani, A.**, Handjaras, G., Bottari, D. & Orzan, E. (2024). Early assessment of communicative competence in children with hearing loss using the Child-Caregiver Communication Assessment through Rebesco's Evaluation (CC-CARE) method. International Journal of Pediatric Otorhinolaryngology. 111927. [https://10.1016/j.ijporl.2024.111927](https://doi.org/10.1016/j.ijporl.2024.111927)
 
 Saksida, A., Rebesco, R., Colombani, A., Pintonello, S., Tonon, E., Santoro, AM. and Orzan, E. (2024) The timeline of non-vocal and vocal communicative skills in infants with hearing loss. Front. Pediatr.11:1209754. [https://doi:10.3389/fped.2023.1209754](https://doi.org/10.3389/fped.2023.1209754))
