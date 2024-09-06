@@ -23,7 +23,7 @@ You can download a PDF version of the CV [here][CV]
 ## Collaborations
 * 2023–ongoing, _Favorire l’interazione comunicativa nei primi anni di vita: un progetto di neuroscienze cognitive e ricerca-azione educativa sulle relazioni fra gesto simbolico e parola_, Fondazione CARITRO and Università di Trento (Italy)
 * 2023–ongoing, _An early parent-centered multimodal intervention and diagnostic measures in children with hearing impairment: Feasibility study_, Institute for Maternal and Child Health IRCSS "Burlo Garofolo", Trieste (Italy)
-* 2022, _Argomenti di ACTA Otorhinolaryngologica Italica_ 2022;16(1):52-74 Official Journal of the Italian Society of Otorhinolaryngology – Head and Neck Surgery
+* 2022, _Stato attuale delle politiche sanitarie italiane sulla sordità_ Argomenti di ACTA Otorhinolaryngologica Italica_ 2022;16(1):52-74 Official Journal of the Italian Society of Otorhinolaryngology – Head and Neck Surgery
 
 
 
