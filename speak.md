@@ -16,4 +16,4 @@ Here you can find my recent presentations and posters.
 
 [SS_Potsdam2024]:https://clmrnn.github.com/clmrnn/SS_Potsdam2024
 [WS_Potsdam2024]:https://clmrnn.github.com/clmrnn/WS_Potsdam2024
-[MMSYM]:https://clmrnn.github.com/clmrnn/MMSYM_Colombani.pdf
+[MMSYM]: https://clmrnn.github.io/clmrnn/MMSYM_Colombani.pdf
