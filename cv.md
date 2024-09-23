@@ -48,12 +48,13 @@ You can download a PDF version of the CV [here][CV]
 * 2023 Supervision of a Master’s student in [Clinical Audiology](https://www.mq.edu.au/study/find-a-course/courses/master-of-clinical-audiology) - Macquarie University
 
 
-## Networks
-26/10/2018 I am a Member of [ANIOS](https://www.anios.it/) “National Association of Interpreters of Italian Sign Language”, Membership No. 107
 
 ## Experimental techniques and programming languages  
 * EEG – eye-tracking – pupillometry
 * R – Matlab – Presentation
+
+## Networks
+26/10/2018 I am a Member of [ANIOS](https://www.anios.it/) “National Association of Interpreters of Italian Sign Language”, Membership No. 107
 
 ## Language skills
 My native language is Italian. I am fluent in English, Spanish, and Italian Sign Language (LIS). I am familiar with Portuguese, French, Catalan, and Swedish.  
