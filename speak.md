@@ -3,5 +3,10 @@ layout: page
 title: Speaking 
 subtitle: 
 ---
-**Work in progress**  
-Please check back soon for updates on my latest projects.
+Here you can find my recent presentations and posters.  
+
+IDEALAB Summer School  
+
+IDEALAB Winter School  
+
+MMSYM Poster 
