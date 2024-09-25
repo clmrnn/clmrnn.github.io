@@ -36,6 +36,7 @@ You can download a PDF version of the CV [here][CV]
 * 10/2014 – 07/2022 – **Teacher for the deaf** in elementary and middle schools
 
 ## Training
+* 2024 [Data Analysis and Supervised Machine learning in R](https://www.uni-potsdam.de/en/pogs/train/machine-learning-in-r?tx_powermail_pi1%5Baction%5D=create&tx_powermail_pi1%5Bcontroller%5D=Form&cHash=66bafdb6922cf9846aff1bdc6e6a5908#c726384), November 2024 – University of Potsdam
 * 2024 [Eighth Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2024/), Foundations of Frequentist Statistics, 9-13 September 2024 – University of Potsdam
 * 2024 [Learning Pupillometry: From Theory to Analyses](https://linguistlist.org/issues/35/279/) – University of Konstanz
 * 2024 [Data visualization in R](https://www.stat.fu-berlin.de/schulungen_neu/interne-start/durchgefuehrt/index.html) – Fu:stats, Freie Universität Berlin
