@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualization 
+title: Visualizations 
 subtitle: 
 ---
 Here you can find my recent presentations and posters.  
