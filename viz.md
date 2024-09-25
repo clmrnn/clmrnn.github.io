@@ -16,6 +16,6 @@ To be uploaded soon
 ## Posters
 * Check the [poster presented at MMSYM 2024][MMSYM] at the Goethe-University, Frankfurt 
 
-[Research_project]: https://clmrnn.github.com/clmrnn/Research_project.pdf
+[Research_project]: https://clmrnn.github.io/clmrnn/Research_project.pdf
 [Exp1]: https://clmrnn.github.io/clmrnn/Exp_1.pdf
 [MMSYM]: https://clmrnn.github.io/clmrnn/MMSYM_Colombani.pdf
