@@ -5,7 +5,7 @@ subtitle:
 ---
 Here you can find my recent presentations and posters.  
 
-## Video presentation
+## Video presentations
 To be uploaded soon
 
 ## Slides
