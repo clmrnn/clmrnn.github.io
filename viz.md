@@ -9,9 +9,9 @@ I love sharing my research through visual storytelling. Here you can explore my 
 Coming soon
 
 ## Slides
-* Check the overview of my [PhD research project][Research_project] presented at the IDEALAB Summer School 2024 (Sep 16-20, 2024, University of Potsdam)
+* Check the overview of my [PhD research project][Research_project], presented at the IDEALAB Summer School 2024 (Sep 16-20, 2024, University of Potsdam)
 
-* Check the results of the [first experiment of my PhD][Exp1] presented at the IDEALAB Winter School 2024 (Apr 8–12, 2024, University of Groningen)
+* Check the [results from the first experiment][Exp1] of my PhD, presented at the IDEALAB Winter School 2024 (Apr 8–12, 2024, University of Groningen)
 
 ## Posters
 * Check the [poster presented at MMSYM 2024][MMSYM] at the Goethe-University, Frankfurt 
