@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualizations 
+title: Visuals
 subtitle: 
 ---
 I love sharing my research through visual storytelling. Here you can explore my latest presentations and posters.  
