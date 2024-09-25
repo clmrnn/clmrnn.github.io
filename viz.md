@@ -6,7 +6,7 @@ subtitle:
 I love sharing my research through visual storytelling. Here you can explore my latest presentations and posters.  
 
 ## Video presentations
-To be uploaded soon
+Coming soon
 
 ## Slides
 * Check the overview of my [PhD research project][Research_project] presented at the IDEALAB Summer School 2024 (Sep 16-20, 2024, University of Potsdam)
