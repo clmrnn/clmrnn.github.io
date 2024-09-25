@@ -3,7 +3,7 @@ layout: page
 title: Visualizations 
 subtitle: 
 ---
-Here you can find my recent presentations and posters.  
+I love sharing my research through visual storytelling. Here you can explore my latest presentations and posters.  
 
 ## Video presentations
 To be uploaded soon
