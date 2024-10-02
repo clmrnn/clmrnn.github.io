@@ -30,7 +30,7 @@ You can download a PDF version of the CV [here][CV]
   * 01/2018 – 01/2023 – Interpreter and Tutor for deaf students at the _University of Florence_ and _University of Pisa_
   * 08/2019 – 03/2020 – Interpreter and Tour Leader for Travel Agency _La Tartaruga_
   * 05/2017 – 03/2020 – Interpreter and Tour Leader for Travel Agency _Mamberto Viaggi_
-  *   
+     
 * 12/2017 – 01/2023, **Workshop trainer**, [Baby Signs Italia](https://www.babysignsitalia.com/), Padova (Italy)
 
 * 10/2014 – 07/2022 – **Teacher for the deaf** in elementary and middle schools
