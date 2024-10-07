@@ -12,7 +12,7 @@ I came to academia after several years of working as a freelance sign language i
 
 Since 2017, I have been collaborating with the [Baby Signs](www.babysignsitalia.com) group in Italy to promote research on the use of gestures in early infancy. In 2021, I obtained my first research scholarship at the Institute for Maternal and Child Health [IRCSS “Burlo Garofolo”](https://www.burlo.trieste.it/), Trieste (Italy) to investigate the use of gestures in clinical settings.
 
-I am now based in Berlin. You may often find me rollerblading in Tempelhofer Feld, trying to make sense of *life, the universe, and everything* by listening to news, science, and history podcasts.
+I am now based in Berlin. You may often find me rollerblading in Tempelhofer Feld, trying to make sense of life, the universe, and everything by listening to news, science, and history podcasts.
 
 ## Contact
 Potsdam: colombani [at] uni-potsdam [dot] de  
