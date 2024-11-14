@@ -8,7 +8,7 @@ I love sharing my research through visual storytelling. Here you can explore my 
 ## Video presentations
 Coming soon
 
-## Slides
+## Slides 
 * My lecture at the [First Language Acquisition][FLA_SLandMultimodality] course in the International Master's Programme Experimental and Clinical Linguistics [(IECL)](https://www.uni-potsdam.de/en/iecl/index) at the University of Potsdam (Nov 14, 2024).
   
 * The overview of my [PhD research project][Research_project], presented at the IDEALAB Summer School 2024 (Sep 16-20, 2024, University of Potsdam)
