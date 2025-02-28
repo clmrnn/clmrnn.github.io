@@ -36,6 +36,7 @@ You can download a PDF version of the CV [here][CV]
 * 10/2014 – 07/2022 – **Teacher for the deaf** in elementary and middle schools
 
 ## Training
+* 2025 [Pre-registration Workshop](https://manybabies.org/events/) – ManyBabies
 * 2024 [Eighth Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2024/), Foundations of Frequentist Statistics, 9-13 September 2024 – University of Potsdam
 * 2024 [Learning Pupillometry: From Theory to Analyses](https://linguistlist.org/issues/35/279/) – University of Konstanz
 * 2024 [Data visualization in R](https://www.stat.fu-berlin.de/schulungen_neu/interne-start/durchgefuehrt/index.html) – Fu:stats, Freie Universität Berlin
