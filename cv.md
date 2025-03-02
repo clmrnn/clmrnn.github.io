@@ -37,6 +37,7 @@ You can download a PDF version of the CV [here][CV]
 
 ## Training
 * 2025 [Pre-registration Workshop](https://manybabies.org/events/) – ManyBabies
+* 2024 Theories and considerations on [figurative language and idiomatic expressions][FormazioneRigo] in simultaneous interpreting – [ANIOS](https://www.anios.it/) 
 * 2024 [Eighth Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2024/), Foundations of Frequentist Statistics, 9-13 September 2024 – University of Potsdam
 * 2024 [Learning Pupillometry: From Theory to Analyses](https://linguistlist.org/issues/35/279/) – University of Konstanz
 * 2024 [Data visualization in R](https://www.stat.fu-berlin.de/schulungen_neu/interne-start/durchgefuehrt/index.html) – Fu:stats, Freie Universität Berlin
@@ -58,3 +59,4 @@ My native language is Italian. I am fluent in English, Spanish, and Italian Sign
 * 12/05/2022 IELTS Certificate, overall score 8
 
 [CV]: https://clmrnn.github.io/clmrnn/COLOMBANI_CV_Redacted.pdf
+[FormazioneRigo]: https://clmrnn.github.io/clmrnn/FormazioneRigo.pdf
