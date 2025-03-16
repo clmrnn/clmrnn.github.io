@@ -36,7 +36,7 @@ You can download a PDF version of the CV [here][CV]
 * 10/2014 – 07/2022 – **Teacher for the deaf** in elementary and middle schools
 
 ## Training
-* 2025 Keep your tal fresh – Techniques for Scientific Storytelling and Presentations (https://www.uni-potsdam.de/en/events/detail/2025-03-12-keep-your-talk-fresh-techniques-for-scientific-storytelling-and-presentations) – University of Potsdam and ImpulsePlus
+* 2025 [Keep your tal fresh – Techniques for Scientific Storytelling and Presentations](https://www.uni-potsdam.de/en/events/detail/2025-03-12-keep-your-talk-fresh-techniques-for-scientific-storytelling-and-presentations) – University of Potsdam and ImpulsePlus
 * 2025 [Pre-registration Workshop](https://manybabies.org/events/) – ManyBabies
 * 2024 Theories and considerations on [figurative language and idiomatic expressions][FormazioneRigo] in simultaneous interpreting – ANIOS National Association of Interpreters of Italian Sign Language
 * 2024 [Eighth Summer School on Statistical Methods for Linguistics and Psychology (SMLP)](https://vasishth.github.io/smlp2024/), Foundations of Frequentist Statistics, 9-13 September 2024 – University of Potsdam
