@@ -59,6 +59,6 @@ You can download a PDF version of the CV [here][CV]
 My native language is Italian. I am fluent in English, Spanish, and Italian Sign Language (LIS). I am familiar with Portuguese, French, Catalan, and Swedish.  
 * 12/05/2022 IELTS Certificate, overall score 8 (C1)
 
-[CV]: https://clmrnn.github.io/clmrnn/COLOMBANI_CV Eng Oct 2025_ACA.pdf
+[CV]: https://clmrnn.github.io/clmrnn/COLOMBANI_CV Eng Oct 2025_ACA.pdf 
 [FormazioneRigo]: https://clmrnn.github.io/clmrnn/FormazioneRigo.pdf
 [certificate]: https://clmrnn.github.io/clmrnn/KeepYourTalk_Certificate25.pdf
