@@ -5,6 +5,11 @@ subtitle:
 ---
 
 ## Publications
+
+**Colombani, A.**, Sharma, M., Tuomainen, O., Saksida, A. (in review) Learning gestures as object labels through cross-situational learning in 3- to 4-year-old children. Cognitive Development
+
+Saksida A., Rebesco R., Scuderi M., **Colombani A.**, Messineo I., Pavani F., Orzan E., Pintonello S., (2025). The role of symbolic gestures in the path towards auditory rehabilitation of infants with hearing loss: a feasibility study. Deafness & Education International, [DOI:10.1080/14643154.2025.2541433](https://doi.org/10.1080/14643154.2025.2541433)
+
 **Colombani, A.**, Peter V., Quian, Y.M., Saksida A., Boll-Avetisyan N., Tuomainen O., Sharma, M. (2025), Cross-situational learning of sign-like gestures in children and adults: a behavioural and event-related potential study. Language, Cognition and Neuroscience [DOI: 10.1080/23273798.2025.2539136](https://doi.org/10.1080/23273798.2025.2539136)
 
 Rebesco, R., **Colombani, A.**, Handjaras, G., Bottari, D. & Orzan, E. (2024). Early assessment of communicative competence in children with hearing loss using the Child-Caregiver Communication Assessment through Rebesco's Evaluation (CC-CARE) method. International Journal of Pediatric Otorhinolaryngology. 111927. [https://10.1016/j.ijporl.2024.111927](https://doi.org/10.1016/j.ijporl.2024.111927)
