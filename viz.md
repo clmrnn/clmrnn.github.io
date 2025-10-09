@@ -6,6 +6,7 @@ subtitle:
 I love sharing my research through visual storytelling. Here you can explore my latest presentations and posters.  
 
 ## Video presentations
+* Mini-Workshop "Introduction to applications of Eye-tracking in language studies" at [The Second International Conference on the Science of Language and the Brain](https://solab.ir/conference.html) (Oct 9–10, 2025, Online)
 Coming soon
 
 ## Slides 
