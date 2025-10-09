@@ -9,7 +9,7 @@ I love sharing my research through visual storytelling. Here you can explore my 
 Coming soon
 
 ## Slides 
-* Workshop ["Introduction to applications of Eye-tracking in language studies"][Colombani_Slides_updated] at [The Second International Conference on the Science of Language and the Brain](https://solab.ir/conference.html) (Oct 9–10, 2025, Online)
+* [Mini-Workshop][Colombani_Slides_SOLAB]"Introduction to applications of Eye-tracking in language studies" at [The Second International Conference on the Science of Language and the Brain](https://solab.ir/conference.html) (Oct 9–10, 2025, Online)
 
 * [Lecture][FLA_SLandMultimodality] at the First Language Acquisition course in the International Master's Programme Experimental and Clinical Linguistics [(IECL)](https://www.uni-potsdam.de/en/iecl/index) at the University of Potsdam (Nov 14, 2024).
   
@@ -24,3 +24,4 @@ Coming soon
 [Exp1]: https://clmrnn.github.io/clmrnn/Exp_1.pdf
 [MMSYM]: https://clmrnn.github.io/clmrnn/MMSYM_Colombani.pdf
 [FLA_SLandMultimodality]: https://clmrnn.github.io/clmrnn/FLA_SLandMultimodality.pdf
+[Colombani_Slides_SOLAB]: https://clmrnn.github.io/clmrnn/Colombani_Slides_SOLAB.pdf
