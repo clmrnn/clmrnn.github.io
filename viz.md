@@ -25,4 +25,4 @@ Coming soon
 [Exp1]: https://clmrnn.github.io/clmrnn/Exp_1.pdf
 [MMSYM]: https://clmrnn.github.io/clmrnn/MMSYM_Colombani.pdf
 [FLA_SLandMultimodality]: https://clmrnn.github.io/clmrnn/FLA_SLandMultimodality.pdf
-[Colombani_Slides_SOLAB]: https://clmrnn.github.io/clmrnn/Colombani_Slides_SOLAB.pdf
+[Colombani_Eyetracking_SOLAB25]: https://clmrnn.github.io/clmrnn/Colombani_Eyetracking_SOLAB25.pdf
