@@ -5,11 +5,6 @@ subtitle:
 ---
 I love sharing my research through visual storytelling. Here you can explore my latest presentations and posters.  
 
-## Video presentations
-* Mini-Workshop "Introduction to applications of Eye-tracking in language studies" at The Second International Conference on the Science of Language and the Brain [SOLAB 2025](https://solab.ir/conference.html) (Oct 9–10, 2025, Online)  
-📎 [Download][Colombani_Eyetracking_SOLAB25]  
-🔗 Link – COMING SOON!
-
 ## Slides 
 * Mini-Workshop "Introduction to applications of Eye-tracking in language studies" at The Second International Conference on the Science of Language and the Brain [SOLAB 2025](https://solab.ir/conference.html)(Oct 9–10, 2025, Online)  
 📎 [Download][Colombani_Eyetracking_SOLAB25]
@@ -22,6 +17,10 @@ I love sharing my research through visual storytelling. Here you can explore my 
 
 * PhD research project overview, presented at the IDEALAB Summer School 2024 (Sep 16-20, 2024, University of Potsdam)  
 📎 [Download][Research_project]
+
+## Video presentations
+* Mini-Workshop "Introduction to applications of Eye-tracking in language studies" at The Second International Conference on the Science of Language and the Brain [SOLAB 2025](https://solab.ir/conference.html) (Oct 9–10, 2025, Online)  
+🔗 Link – COMING SOON!
 
 ## Posters
 * Poster presented at MMSYM 2024, Goethe-University, Frankfurt (Sep, 2024)  
