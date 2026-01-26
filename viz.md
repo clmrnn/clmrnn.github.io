@@ -6,7 +6,7 @@ subtitle:
 I love sharing my research through visual storytelling. Here you can explore my latest presentations and posters.  
 
 ## Slides 
-* Mini-Workshop "Introduction to applications of Eye-tracking in language studies" at The Second International Conference on the Science of Language and the Brain [SOLAB 2025](https://solab.ir/conference.html)(Oct 9–10, 2025, Online)  
+* Mini-Workshop "Introduction to applications of Eye-tracking in language studies" at The Second International Conference on the Science of Language and the Brain [SOLAB 2025](https://solab.ir/conference.html) (Oct 9–10, 2025, Online)  
 📎 [Download][Colombani_Eyetracking_SOLAB25]
 
 * Lecture at the First Language Acquisition course in the International Master's Programme Experimental and Clinical Linguistics [(IECL)](https://www.uni-potsdam.de/en/iecl/index) at the University of Potsdam (Nov 14, 2024)  
