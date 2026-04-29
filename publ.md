@@ -19,7 +19,7 @@ Saksida, A., Rebesco, R., **Colombani, A.**, Pintonello, S., Tonon, E., Santoro,
 **Colombani, A.**, Saksida, A., Pintonello, S., De Caro, F., & Orzan, E. (2022). Assessment of Communication Abilities in Four Children with Early Bilateral CIs in Clinical and Home Environments with LENA System: A Case Report. Children (Basel, Switzerland), 9(5), 659.[https://doi.org/10.3390/children9050659](https://doi.org/10.3390/children9050659)
 
 ## Conferences  
-Colombani, A. (2025), Cross-situational learning of sign-like gestures from infancy to adulthood. _Talk_ presented at the _Bimodal Bilingualism Special Session – Biligualism Matters Symposium_, Milano-Bicocca (Apr 28, 2026)
+Colombani, A. (2026), Cross-situational learning of sign-like gestures from infancy to adulthood. _Talk_ presented at the _Bimodal Bilingualism Special Session – Biligualism Matters Symposium_, Milano-Bicocca (Apr 28, 2026)
 
 Colombani, A. (2025), Mini-Workshop "Introduction to applications of Eye-tracking in language studies" at The Second International Conference on the Science of Language and the Brain (Oct 9–10, 2025, Online)
 
