@@ -6,7 +6,7 @@ subtitle:
 I love sharing my research through visual storytelling. Here you can explore my latest presentations and posters.  
 
 ## Slides 
-* Talk "Cross-situational learning of sign-like gestures" at the Bilingualism Matters Symposium 2026 [BMS26](https://www.bilingualism-matters.org/events/bilingualism-matters-symposium-2026) (Apr 28, 2026, Milan)  
+* Talk "Cross-situational learning of sign-like gestures" at the Bimodal Bilingualism Special Session – Bilingualism Matters Symposium 2026 [BMS26](https://www.bilingualism-matters.org/events/bilingualism-matters-symposium-2026) (Apr 28, 2026, Milan)  
 📎 [Download][BMS26_Colombani]
 
 * Mini-Workshop "Introduction to applications of Eye-tracking in language studies" at The Second International Conference on the Science of Language and the Brain [SOLAB 2025](https://solab.ir/conference.html) (Oct 9–10, 2025, Online)  
