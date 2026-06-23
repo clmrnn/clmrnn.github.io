@@ -6,6 +6,8 @@ subtitle:
 
 ## Publications
 
+**Colombani, A.**, Sharma, M., Tuomainen, O., & Saksida, A. (2026). Learning gestures as object labels through cross-situational learning in 3- to 4-year-old children. Cognitive Development, 79, 101737. [https://doi.org/10.1016/j.cogdev.2026.101737](https://doi.org/10.1016/j.cogdev.2026.101737)
+
 Saksida A., Rebesco R., Scuderi M., **Colombani A.**, Messineo I., Pavani F., Orzan E., Pintonello S., (2025). The role of symbolic gestures in the path towards auditory rehabilitation of infants with hearing loss: a feasibility study. Deafness & Education International, [https://doi.org/10.1080/14643154.2025.2541433](https://doi.org/10.1080/14643154.2025.2541433)
 
 **Colombani, A.**, Peter V., Quian, Y.M., Saksida A., Boll-Avetisyan N., Tuomainen O., Sharma, M. (2025), Cross-situational learning of sign-like gestures in children and adults: a behavioural and event-related potential study. Language, Cognition and Neuroscience [https://doi.org/10.1080/23273798.2025.2539136](https://doi.org/10.1080/23273798.2025.2539136)
