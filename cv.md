@@ -15,7 +15,6 @@ You can download a PDF version of the CV [here][CV]
 ## Academic Employment
 * 2023, **Academic Tutor**, _Macquarie University_
   * Session 2: [PSYU1102 Introduction to Psychology II](https://unitguides.mq.edu.au/unit_offerings/141542/unit_guide)
-
 * 08/2021 – 01/2023, **Research Scholarship**, _Institute for Maternal and Child Health IRCSS "Burlo Garofolo"_, Trieste (Italy)
   * Project RC 42/2022 Introducing a novel approach to early interventions and diagnostic measures in children with hearing loss.
   * Project RC 17/2017 Clinical application of new tools in pediatric audiology to improve the prevention, evaluation, and rehabilitation of auditory-linguistic disorders.
@@ -25,6 +24,9 @@ You can download a PDF version of the CV [here][CV]
 * 2023–ongoing, _Favorire l’interazione comunicativa nei primi anni di vita: un progetto di neuroscienze cognitive e ricerca-azione educativa sulle relazioni fra gesto simbolico e parola_ (Promoting communicative interaction in the early years of life: a cognitive neuroscience and educational action-research project on the relationship between symbolic gesture and word), Fondazione CARITRO and Università di Trento (Italy)
 * 2023–ongoing, _An early parent-centered multimodal intervention and diagnostic measures in children with hearing impairment: Feasibility study_, Institute for Maternal and Child Health IRCSS "Burlo Garofolo", Trieste (Italy)
 * 2022, _Stato attuale delle politiche sanitarie italiane sulla sordità_ (Current status of Italian health policies on deafness) Argomenti di ACTA Otorhinolaryngologica Italica 2022;16(1):52-74 Official Journal of the Italian Society of Otorhinolaryngology – Head and Neck Surgery
+
+## Supervision experience
+* 2023 Supervision of a Master’s student in [Clinical Audiology](https://www.mq.edu.au/study/find-a-course/courses/master-of-clinical-audiology) - Macquarie University
 
 ## Employment 
 * 01/2016 – 01/2023, **Freelance sign language interpreter**
@@ -45,9 +47,6 @@ You can download a PDF version of the CV [here][CV]
 * 2024 [Data visualization in R](https://www.stat.fu-berlin.de/schulungen_neu/interne-start/durchgefuehrt/index.html) – Fu:stats, Freie Universität Berlin
 * 2024 [Power Analysis Workshop](https://manybabies.org/events/) – ManyBabies
 * 2023 [Beginning to teach](https://ishare.mq.edu.au/prod/file/cef2ec2d-75b6-4eb5-8590-c86d58ed4be0/1/BTT%20July%202023%20Program%20Guide.pdf) – Macquarie University
-
-## Supervision experience
-* 2023 Supervision of a Master’s student in [Clinical Audiology](https://www.mq.edu.au/study/find-a-course/courses/master-of-clinical-audiology) - Macquarie University
 
 ## Experimental techniques and programming languages  
 * EEG – eye-tracking – pupillometry
