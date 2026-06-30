@@ -18,6 +18,9 @@ You can download a PDF version of the CV [here][CV]
 * 08/2021 – 01/2023, **Research Scholarship**, _Institute for Maternal and Child Health IRCSS "Burlo Garofolo"_, Trieste (Italy)
   * Project RC 42/2022 Introducing a novel approach to early interventions and diagnostic measures in children with hearing loss.
   * Project RC 17/2017 Clinical application of new tools in pediatric audiology to improve the prevention, evaluation, and rehabilitation of auditory-linguistic disorders.
+ 
+## Supervision experience
+* 2023 Supervision of a Master’s student in [Clinical Audiology](https://www.mq.edu.au/study/find-a-course/courses/master-of-clinical-audiology) - Macquarie University
 
 ## Collaborations
 * 2025, _Servizi per la disabilità uditiva - scuole primarie e secondarie_ (Services for hearing disability in primary and secondary schools) – Project: A.BA.CO. - Breaking Down Communication Barriers, Institute for Maternal and Child Health IRCSS "Burlo Garofolo", Trieste (Italy)
@@ -25,17 +28,12 @@ You can download a PDF version of the CV [here][CV]
 * 2023–ongoing, _An early parent-centered multimodal intervention and diagnostic measures in children with hearing impairment: Feasibility study_, Institute for Maternal and Child Health IRCSS "Burlo Garofolo", Trieste (Italy)
 * 2022, _Stato attuale delle politiche sanitarie italiane sulla sordità_ (Current status of Italian health policies on deafness) Argomenti di ACTA Otorhinolaryngologica Italica 2022;16(1):52-74 Official Journal of the Italian Society of Otorhinolaryngology – Head and Neck Surgery
 
-## Supervision experience
-* 2023 Supervision of a Master’s student in [Clinical Audiology](https://www.mq.edu.au/study/find-a-course/courses/master-of-clinical-audiology) - Macquarie University
-
 ## Employment 
 * 01/2016 – 01/2023, **Freelance sign language interpreter**
   * 01/2018 – 01/2023 – Interpreter and Tutor for deaf students at the _University of Florence_ and _University of Pisa_
   * 08/2019 – 03/2020 – Interpreter and Tour Leader for Travel Agency _La Tartaruga_
-  * 05/2017 – 03/2020 – Interpreter and Tour Leader for Travel Agency _Mamberto Viaggi_
-     
+  * 05/2017 – 03/2020 – Interpreter and Tour Leader for Travel Agency _Mamberto Viaggi_   
 * 12/2017 – 01/2023, **Workshop trainer**, [Baby Signs Italia](https://www.babysignsitalia.com/), Padova (Italy)
-
 * 10/2014 – 07/2022 – **Teacher for the deaf** in elementary and middle schools
 
 ## Training
