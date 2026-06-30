@@ -47,14 +47,14 @@ You can download a PDF version of the CV [here][CV]
 * 2023 [Beginning to teach](https://ishare.mq.edu.au/prod/file/cef2ec2d-75b6-4eb5-8590-c86d58ed4be0/1/BTT%20July%202023%20Program%20Guide.pdf) – Macquarie University
 
 ## Experimental techniques and programming languages  
-* EEG – eye-tracking – pupillometry
+* EEG – eye-tracking 
 * R – Matlab – Presentation
 
 ## Networks
 26/10/2018 I am a Member of [ANIOS](https://www.anios.it/) “National Association of Interpreters of Italian Sign Language”, Membership No. 107
 
 ## Language skills
-My native language is Italian. I am fluent in English, Spanish, and Italian Sign Language (LIS). I am familiar with Portuguese, French, Catalan, and Swedish.  
+My native language is Italian. I am fluent in English, Spanish, and Italian Sign Language (LIS). I am familiar with German, Portuguese, French, Catalan, and Swedish.  
 * 12/05/2022 IELTS Certificate, overall score 8 (C1)
 
 [CV]: https://clmrnn.github.io/clmrnn/COLOMBANI_CV.pdf 
